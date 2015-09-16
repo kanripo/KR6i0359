@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大乘密嚴經
+#+DATE: 2015-08-30 20:17:17.476734
+#+PROPERTY: JUAN 0
